@@ -1,12 +1,53 @@
 @import "page";
 @import "nav";
 @import "mobstyle";
+@import "about";
+@import "contact";
+
+$danger: firebrick;
 
 html, body {
   overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
-.page {
-  height: 200vh;
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.my-container {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.site-footer .footer-layout {
+  padding: 3% 0 2% 0;
+  border-top: 5px solid rgba(10, 10, 10, 0.8);
+}
+
+.site-footer {
+  background: #F0F0F0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-links {
+  display: flex;
+  p {
+    padding-left: 15px;
+    text-decoration: underline;
+  }
+  a {
+      color: black;
+    }
+}
+
+#contact-section {
+  padding: 8% 0 8% 0;
+  background: #F0F0F0;
 }
