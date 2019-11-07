@@ -44,10 +44,3 @@ nav a {
   color: white;
   transition: all 0.2s;
   text-transform: uppercase; }
-
-#particles-js {
-  background: firebrick;
-  height: 70vh; }
-
-.page {
-  height: 200vh; }
