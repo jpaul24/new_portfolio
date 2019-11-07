@@ -1,5 +1,11 @@
 @import "page";
 @import "nav";
+@import "mobstyle";
+
+html, body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
 
 .page {
   height: 200vh;

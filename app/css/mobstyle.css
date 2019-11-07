@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 40px;
+    padding: 5px;
+    text-align: center; }
+  .name-head {
+    margin-left: 50px; }
+  h2 {
+    font-size: 16px; }
+  nav a {
+    font-size: 16px; } }
