@@ -47,7 +47,13 @@ a {
     }
 }
 
-#contact-section {
-  padding: 8% 0 8% 0;
-  background: #F0F0F0;
+.button {
+  background: transparent;
+  font-weight: bold;
+  padding: 12px;
+  border: solid 5px #0E2F4F;
+  &:hover {
+    background: #0E2F4F;
+    color: white;
+  }
 }
