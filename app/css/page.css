@@ -9,7 +9,9 @@
   position: absolute; }
 
 .name-head {
-  display: flex; }
+  margin: 0 auto;
+  display: flex;
+  justify-content: center; }
 
 h1 {
   display: flex;

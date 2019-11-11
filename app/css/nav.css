@@ -22,7 +22,8 @@ nav li {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-weight: bold; }
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif; }
 
 li.logo {
   max-width: 0;

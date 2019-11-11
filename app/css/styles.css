@@ -1,3 +1,4 @@
+@import "https://fonts.googleapis.com/css?family=Merriweather|Montserrat:400,700&display=swap";
 #particles-js {
   background: firebrick;
   height: 70vh;
@@ -9,7 +10,9 @@
   position: absolute; }
 
 .name-head {
-  display: flex; }
+  margin: 0 auto;
+  display: flex;
+  justify-content: center; }
 
 h1 {
   display: flex;
@@ -87,7 +90,8 @@ nav li {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-weight: bold; }
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif; }
 
 li.logo {
   max-width: 0;
@@ -121,8 +125,6 @@ nav a {
     font-size: 40px;
     padding: 5px;
     text-align: center; }
-  .name-head {
-    margin-left: 45px; }
   h2 {
     font-size: 16px; }
   h3 {
@@ -170,16 +172,19 @@ nav a {
   margin-top: -65px; }
 
 .let-it-grow {
-  padding: 3% 0 1% 0;
+  padding: 3% 0 2% 0;
   background-color: #6ab222; }
   .let-it-grow a {
     color: black; }
 
 .real-good {
-  padding: 3% 0 1% 0;
+  padding: 3% 0 2% 0;
   background-color: #6a22b2; }
   .real-good a {
     color: black; }
+
+h1, h2, h3, h4 {
+  font-family: "Montserrat", sans-serif; }
 
 html, body {
   overflow-x: hidden;
