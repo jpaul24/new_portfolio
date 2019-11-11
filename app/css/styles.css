@@ -90,7 +90,6 @@ nav li {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-weight: bold;
   font-family: "Montserrat", sans-serif; }
 
 li.logo {
@@ -169,7 +168,9 @@ nav a {
   padding: 20px; }
 
 .vid {
-  margin-top: -65px; }
+  margin-top: -60px;
+  display: flex;
+  justify-content: center; }
 
 .let-it-grow {
   padding: 3% 0 2% 0;
@@ -191,7 +192,11 @@ html, body {
   scroll-behavior: smooth; }
 
 a:hover {
-  text-decoration: underline; }
+  text-decoration: underline;
+  cursor: pointer; }
+
+p {
+  font-family: 'Merriweather', serif; }
 
 .my-container {
   margin: 0 auto;
