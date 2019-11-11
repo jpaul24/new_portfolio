@@ -133,7 +133,10 @@ nav a {
   .site-footer p {
     font-size: 12px; }
   nav a {
-    font-size: 12px; } }
+    font-size: 12px; }
+  .vid {
+    margin-top: 0 !important;
+    margin-left: -10px; } }
 
 #about-section {
   padding: 8% 0 8% 0;
@@ -148,12 +151,37 @@ nav a {
   padding: 8% 0 8% 0;
   background: #F0F0F0; }
 
+.jaunt {
+  padding: 3% 0 1% 0;
+  background-color: #226ab2; }
+  .jaunt a {
+    color: black; }
+
+.jaunt-video {
+  text-align: center;
+  padding: 20px; }
+
+.vid {
+  margin-top: -65px; }
+
+.let-it-grow {
+  padding: 3% 0 1% 0;
+  background-color: #6ab222; }
+  .let-it-grow a {
+    color: black; }
+
+.real-good {
+  padding: 3% 0 1% 0;
+  background-color: #6a22b2; }
+  .real-good a {
+    color: black; }
+
 html, body {
   overflow-x: hidden;
   scroll-behavior: smooth; }
 
 a:hover {
-  text-decoration: none; }
+  text-decoration: underline; }
 
 .my-container {
   margin: 0 auto;

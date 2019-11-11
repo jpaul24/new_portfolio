@@ -3,6 +3,7 @@
 @import "mobstyle";
 @import "about";
 @import "contact";
+@import "work";
 
 $danger: firebrick;
 
@@ -13,7 +14,7 @@ html, body {
 
 a {
   &:hover {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 

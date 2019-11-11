@@ -1,0 +1,15 @@
+.jaunt {
+  padding: 4% 0 4% 0;
+  background-color: #226ab2; }
+  .jaunt a {
+    text-decoration: none;
+    color: black; }
+  .jaunt h2 {
+    margin-bottom: 0; }
+
+.jaunt-video {
+  text-align: center;
+  padding: 20px; }
+
+.vid {
+  margin-top: -65px; }
