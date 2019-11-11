@@ -43,6 +43,9 @@ li.logo {
 
 li.logo a {
   color: black;
+  &:hover {
+    color: black;
+  }
 }
 
 nav a {

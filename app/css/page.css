@@ -16,6 +16,9 @@ h1 {
   padding: 30px;
   font-size: 100px; }
 
+h3 {
+  font-size: 24px; }
+
 h1 span {
   opacity: 0;
   display: inline-block;

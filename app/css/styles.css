@@ -16,6 +16,9 @@ h1 {
   padding: 30px;
   font-size: 100px; }
 
+h3 {
+  font-size: 24px; }
+
 h1 span {
   opacity: 0;
   display: inline-block;
@@ -94,6 +97,8 @@ li.logo {
 
 li.logo a {
   color: black; }
+  li.logo a:hover {
+    color: black; }
 
 nav a {
   text-decoration: none;
@@ -126,6 +131,8 @@ nav a {
     padding: 4px !important;
     font-size: 12px; }
   .site-footer p {
+    font-size: 12px; }
+  nav a {
     font-size: 12px; } }
 
 #about-section {

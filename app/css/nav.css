@@ -37,6 +37,8 @@ li.logo {
 
 li.logo a {
   color: black; }
+  li.logo a:hover {
+    color: black; }
 
 nav a {
   text-decoration: none;
