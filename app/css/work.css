@@ -1,5 +1,5 @@
 .jaunt {
-  padding: 3% 0 1% 0;
+  padding-top: 3%;
   background-color: #226ab2; }
   .jaunt a {
     color: black; }
@@ -17,6 +17,11 @@
   background-color: #6ab222; }
   .let-it-grow a {
     color: black; }
+
+.grow-vid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
 
 .real-good {
   background-color: #6a22b2; }

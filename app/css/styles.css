@@ -141,8 +141,15 @@ nav a {
   nav a {
     font-size: 12px; }
   .vid {
-    margin-top: 0 !important;
-    margin-left: -10px; } }
+    margin-top: 0 !important; }
+  p {
+    font-size: 10px; }
+  .grow-vid {
+    display: flex;
+    flex-direction: row !important;
+    width: 214px;
+    height: 100px;
+    margin-bottom: 90px !important; } }
 
 #about-section {
   padding: 8% 0 8% 0;
@@ -158,7 +165,7 @@ nav a {
   background: #F0F0F0; }
 
 .jaunt {
-  padding: 3% 0 1% 0;
+  padding-top: 3%;
   background-color: #226ab2; }
   .jaunt a {
     color: black; }
@@ -176,6 +183,11 @@ nav a {
   background-color: #6ab222; }
   .let-it-grow a {
     color: black; }
+
+.grow-vid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
 
 .real-good {
   background-color: #6a22b2; }

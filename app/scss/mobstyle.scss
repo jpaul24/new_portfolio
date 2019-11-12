@@ -32,6 +32,15 @@
   }
   .vid {
     margin-top: 0 !important;
-    margin-left: -10px;
+  }
+  p {
+    font-size: 10px;
+  }
+  .grow-vid {
+    display: flex;
+    flex-direction: row !important;
+    width: 214px;
+    height: 100px;
+    margin-bottom: 90px !important;
   }
 }
