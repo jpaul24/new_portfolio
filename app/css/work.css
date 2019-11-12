@@ -14,13 +14,19 @@
   justify-content: center; }
 
 .let-it-grow {
-  padding: 3% 0 2% 0;
   background-color: #6ab222; }
   .let-it-grow a {
     color: black; }
 
 .real-good {
-  padding: 3% 0 2% 0;
   background-color: #6a22b2; }
   .real-good a {
+    color: black; }
+
+.work-padding {
+  padding: 3% 0 2% 0; }
+
+.mole-whack {
+  background-color: #b26a22; }
+  .mole-whack a {
     color: black; }
