@@ -165,7 +165,6 @@ nav a {
   background: #F0F0F0; }
 
 .jaunt {
-  padding-top: 3%;
   background-color: #226ab2; }
   .jaunt a {
     color: black; }
@@ -190,7 +189,8 @@ nav a {
   justify-content: center; }
 
 .real-good {
-  background-color: #6a22b2; }
+  background-color: #6a22b2;
+  color: #c8c8c8; }
   .real-good a {
     color: black; }
 
