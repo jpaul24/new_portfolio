@@ -189,10 +189,11 @@ nav a {
   justify-content: center; }
 
 .real-good {
-  background-color: #6a22b2;
-  color: #c8c8c8; }
+  background-color: #6a22b2; }
   .real-good a {
     color: black; }
+  .real-good p {
+    color: #d0d0d0; }
 
 .work-padding {
   padding: 3% 0 3% 0; }
