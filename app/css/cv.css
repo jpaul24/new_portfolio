@@ -1,0 +1,32 @@
+.cv {
+  background: #F0F0F0; }
+
+.cv-head {
+  background: firebrick; }
+
+.header-cv {
+  padding: 10% 0 5% 0;
+  border-bottom: 5px solid rgba(50, 50, 50, 0.8); }
+
+a {
+  color: #0a0a0a; }
+  a:hover {
+    color: #1e1e1e; }
+
+.skills {
+  background: #F0F0F0; }
+
+.cv h4 {
+  font-size: 18px; }
+
+.cv-pad {
+  border-bottom: 5px solid rgba(50, 50, 50, 0.8);
+  padding: 4% 0; }
+
+.ref-pad {
+  padding: 4% 0; }
+
+.social-links {
+  display: flex; }
+  .social-links a {
+    padding-right: 30px; }
