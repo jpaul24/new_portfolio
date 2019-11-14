@@ -222,7 +222,12 @@ a {
   background: #F0F0F0; }
 
 .cv h4 {
-  font-size: 18px; }
+  font-size: 18px;
+  margin-bottom: 20px; }
+
+.cv p {
+  margin-bottom: 5px;
+  color: #282828; }
 
 .cv-pad {
   border-bottom: 5px solid rgba(50, 50, 50, 0.8);
@@ -232,7 +237,8 @@ a {
   padding: 4% 0; }
 
 .social-links {
-  display: flex; }
+  display: flex;
+  margin-bottom: 10px; }
   .social-links a {
     padding-right: 30px; }
 
